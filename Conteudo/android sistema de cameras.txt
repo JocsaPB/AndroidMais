@@ -1,0 +1,11 @@
+Olha como a vida é: você começa a criar um sistema operacional pensando em como ele seria ótimo para câmeras, muda o foco e, anos depois, ele vai parar em… câmeras. Quem nunca? Isso foi o que aconteceu com o Android, segundo seu criador, Andy Rubin.
+
+De acordo com ele, a ideia inicial era que o Android fosse utilizado em câmeras digitais, para que elas se conectassem a PCs de uma maneira nova – por exemplo, com apps. Mas, com o achatamento do mercado, em parte pelas câmeras dos smartphones, pareceu mais sensato criar um sistema operacional para celulares.
+
+Então, foram utilizados a mesma plataforma e o mesmo sistema operacional para desenvolver o Android para smartphones. Rubin afirmou que, naquela época, se preocupava com a expansão da Microsoft e do Symbian; não havia nem sinal do maior rival do Android, o iOS, porque, na época, o primeiro iPhone nem havia sido lançado.
+
+E, curiosamente, no final das contas o Android acabou sendo adotado também por câmeras digitais, como a Galaxy Camera da Samsung, a Coolpix S800c da Nikon e a iM1836 da Polaroid.
+
+Referencias:
+https://pt.wikipedia.org/wiki/Android#Hist.C3.B3ria
+https://tecnoblog.net/129163/android-cameras/

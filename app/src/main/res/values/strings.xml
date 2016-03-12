@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AndroidMais</string>
+
+    <string name="textoFl1_parte1"> Andrew E. Rubin, ou Andy Rubin (Chappaqua, 1962), é um desenvolvedor, programador, executivo estadunidense
+        e o co-fundador da Danger Inc. É o criador do sistema operacional Android.
+        Rubin possui 17 patentes de invenções relacionadas a produtos de tecnologia da informação.
+    </string>
+    <string name="textoFl1_parte2">
+        Mas o currículo desse grande protagonista não para por aí, ele também foi engenheiro da Apple
+        e executivo da Google até 30 de outubro de 2014, quando deixou a empresa para iniciar uma incubadora para startups de hardware.
+    </string>
+    <string name="textoFl1_parte3">Entretanto, com o passar dos anos depois da criação do android, Andy vendeu o Android.inc a Google em 17 de agosto de 2005.</string>
+
+    <string name="textoRl2_parte1">
+        Você sabia que o intuito inicial do android era operar câmeras? Não estou falando da câmera do seu celular (o que trás uma ironía do destino),
+        mas sim de câmeras fotográficas profissionais. Não sabia?! Pois é!
+    </string>
+
+    <string name="textoRl2_parte2">
+        A princípio, o sistema foi desenvolvido para manipular funcionalidades e alterar caracteristicas de câmeras profissionais.
+        Entretanto, anos depois de o sistema ser vendido para a Google, a história não necessáriamente mudou. O sistema enfim, foi usado para operar câmeras. Mesmo que câmera de celular.
+        Isso foi o que aconteceu, segundo seu criador, Andy Rubin.
+    </string>
+
+    <string name="textoRl3">
+        As versões do Android levam nomes de doces e sobremesas, você sabia?! E seguem uma ordem alfabética: Angel Cake, Battenberg, Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, Jelly Bean, KitKat e a versão mais recente 5.0 Lollipop.
+        Veja as figuras de versões com seus nomes a baixo!
+    </string>
+
+    <string name="textoRl4_parte1">
+        Android: você sabia que o sistema vai muito além dos smartphones?
+        Então... Já vimos que a princípio ele foi feito pra câmeras e etc. Mas podemos afirmar também que: Android vai muito mais além do que apenas smartphones!
+
+        De máquinas de café a geladeiras, o Android estar em todos os lugares. Com toda essa gama de dispositivos, os celulares parecem só o começo.
+    </string>
+
+    <string name="textoRl4_parte2">
+        Porque apenas abrir a geladeira e pegar uma garrafa de água se você também pode ler um email?
+        E gerenciar sua máquina de lavar a distância usando seu celular? Tudo isso é possivel graças ao Android e a investimentos da Samsung.
+        Outra coisa... Você já imprimiu usando uma HP photosmart eStation? Já imaginou um relógio em Android?! Bom, a lista não para por aí, mas tenha a certeza de uma coisa, Android não fica e nem ficará apenas em SmartPhones.
+    </string>
+
+    <string name="textoRl4_parte3">
+
+        Texto tirado de: http://canaltech.com.br/noticia/curiosidades/Android-voce-sabia-que-o-sistema-vai-muito-alem-dos-smartphones/
+    </string>
+
+    <string name="textRl5">
+        Você sabia que todos os anos a Google promove uma conferência para desenvolvedores, a chamada Google I/O.
+        É o maior evento da categoria proporcionado pela google. Segue abaixo algumas imagens do evento realizado no ano de 2015.
+
+    </string>
+
+</resources>
